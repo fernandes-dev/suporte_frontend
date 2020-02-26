@@ -5,13 +5,15 @@
 </template>
 
 <script>
-
 export default {
   name: "App",
-  components: {
-  },
-  data: () => ({
-    
-  })
+  components: {},
+  data: () => ({})
 };
 </script>
+
+<style>
+.v-btn {
+  text-transform: none !important;
+}
+</style>

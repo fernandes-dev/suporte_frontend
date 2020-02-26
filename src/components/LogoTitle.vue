@@ -3,7 +3,7 @@
     <div id="logo">
       <img src="../assets/logo.svg" alt="logo" width="60px" />
     </div>
-    <h1>{{title}}</h1>
+    <h1 class="title-component">{{title}}</h1>
   </div>
 </template>
 
@@ -21,8 +21,6 @@ h1 {
   font-size: 24px;
   display: flex;
   justify-content: center;
-  margin-top: 5%;
-  margin-bottom: 50px;
 }
 #logo {
   margin-bottom: 10px;
