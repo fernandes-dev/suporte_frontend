@@ -30,7 +30,7 @@
           @change="save"
         ></v-date-picker>
       </v-menu>
-      <v-text-field class="col-5" label="Telefone" outlined dense></v-text-field>
+      <v-text-field class="col-6" label="Telefone" outlined dense></v-text-field>
     </div>
   </div>
 </template>
